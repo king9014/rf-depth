@@ -30,7 +30,7 @@ Detailed Run Instructions:
  see 'ssiDepthDemo.m'
 h)
 Output Description:
- matlab will plot the resuls
+ matlab will plot the results
 i)
 Contact Information: 
 The author's E-mail is jr9014@qq.com.
